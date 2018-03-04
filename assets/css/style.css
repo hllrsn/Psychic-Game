@@ -1,0 +1,35 @@
+body {
+	background: url("../images/mysterious.jpg") darkslategray;
+	background-size: 100%;
+	font-size: 18px;
+	line-height: 32px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #eeeeee;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: 'Mina', sans-serif;
+	font-weight: bold;
+	font-size: xx-large;
+	line-height: 50px;
+	border-bottom: 1px solid #dddddd;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
+p {
+	margin-bottom: 20px;
+}
+
+/*#guesswhat {
+	font-size: x-large;
+}*/
+
+div {
+	margin: 20px;
+	padding: 20px;
+}
